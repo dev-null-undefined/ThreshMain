@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Game engine
-- 🌱 I’m currently learning Maven and Java
+- 🔭 I'm currently studying college
+- 🌱 I’m currently learning C/C++ and more linux
 - ⚡ Stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreshMain&show_icons=true&theme=radical)
